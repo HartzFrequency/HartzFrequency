@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Harsh-shrivastava
-- 👀 I’m interested in -reading
-- 🌱 I’m currently learning -c language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me IG-harshrivastava554
                       Email-harshshrivastava554@gmail.com
