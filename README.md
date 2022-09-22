@@ -1,4 +1,4 @@
-<img align="centre" alt="photo" width="1600" height="380" src="https://scontent.fidr1-1.fna.fbcdn.net/v/t39.30808-6/295280722_176113418219642_8769704300646783232_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_ohc=5pBVDkO1-MgAX-mxA0d&_nc_oc=AQnWEaw9H5d-yFG5-fqv9qkGnqo79uipIkEGEBQ9N4U-oHSPHfb_RzV6gbg6V7bneFcb4_viOKvYM_NAVI-9DR-0&_nc_ht=scontent.fidr1-1.fna&oh=00_AT-oEIp7q0QICuEirLC9IjXkTRgIvrozWUwobkPbKBQpTg&oe=63319C75">
+<img align="centre" alt="photo" width="1500" height="360" src="https://scontent.fidr1-1.fna.fbcdn.net/v/t39.30808-6/295280722_176113418219642_8769704300646783232_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_ohc=5pBVDkO1-MgAX-mxA0d&_nc_oc=AQnWEaw9H5d-yFG5-fqv9qkGnqo79uipIkEGEBQ9N4U-oHSPHfb_RzV6gbg6V7bneFcb4_viOKvYM_NAVI-9DR-0&_nc_ht=scontent.fidr1-1.fna&oh=00_AT-oEIp7q0QICuEirLC9IjXkTRgIvrozWUwobkPbKBQpTg&oe=63319C75">
 <h1 align="center">Hi 👋, Harsh Shrivastava here.</h1>
 <h3 align="center">Trying Not To Mess Things Up!!</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
