@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-shrivastava&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-shrivastava" /> </p>
 
-- 🔭 I’m currently a **Student**
+- 🔭 I’m a **Student**
 
 - 🌱 I’m currently learning **Android Development**
 
