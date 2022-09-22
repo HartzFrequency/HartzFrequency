@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Harsh Shrivastava here.</h1>
 <h3 align="center">Trying Not To Mess Things Up!!</h3>
-<img align="right" alt="coding" width="400" src=" https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif ">
+<img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-shrivastava&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-shrivastava" /> </p>
 
 <h3 align="left">Connect with me:</h3>
