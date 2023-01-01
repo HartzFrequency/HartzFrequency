@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 📫 How to reach me **Mail me-harshshrivastava554@gmail.com**
+- 📫 How to reach me **Mail harshshrivastava554@gmail.com**
 
 <br>
 <br>
