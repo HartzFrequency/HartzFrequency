@@ -22,9 +22,10 @@
 
 - 🔭 I’m a **Student**
 
+- 📫 How to reach me **Mail harshshrivastava554@gmail.com**
+
 - 🌱 I’m currently learning **Android Development**
 
-- 📫 How to reach me **Mail harshshrivastava554@gmail.com**
 
 <br>
 <br>
