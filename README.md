@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **Mail harshshrivastava554@gmail.com**
 
-- 🌱 I’m currently learning **Android && Game Development**
+- 🌱 I’m currently learning **Android & Game Development**
 
 
 <br>
