@@ -22,8 +22,8 @@
 
 - 🔭 I’m a **Student**
 - 📫 Mail me at **harshshrivastava554@gmail.com**
-- 🌱 I’m currently learning **Android |&| Game Development**
-- 👨‍💻 All of my projects are available **here** 
+- 🌱 I’m currently learning **Android & Game Development**
+- 👨‍💻 All of my projects are available **'here'** 
 - ⚡ Fun fact **I love Frequencies**
 
 
@@ -36,10 +36,10 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HartzFrequency&show_icons=true&locale=en" alt="harsh-shrivastava" /></p>
 
-
+<!--
 # 💫 About Me:
 - 🔭 I’m a **Student**<br><br>- 🌱 I’m currently learning **Android Development||Game Development**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/HartzFrequency](https://github.com/HartzFrequency)<br><br>- 📫 Mail me at **harshshrivastava554@gmail.com**<br><br>- ⚡ Fun fact **I love Frequencies**
-
+-->
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Hartz#3666) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100074629535479) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/harsh.shrivastava5/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harsh-shrivastava-95a524224/) 
