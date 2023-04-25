@@ -1,6 +1,6 @@
 <!--
 <img align="centre" alt="photo" width="1500" height="330" src="https://scontent.fidr1-1.fna.fbcdn.net/v/t39.30808-6/295280722_176113418219642_8769704300646783232_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_ohc=5pBVDkO1-MgAX-mxA0d&_nc_oc=AQnWEaw9H5d-yFG5-fqv9qkGnqo79uipIkEGEBQ9N4U-oHSPHfb_RzV6gbg6V7bneFcb4_viOKvYM_NAVI-9DR-0&_nc_ht=scontent.fidr1-1.fna&oh=00_AT-oEIp7q0QICuEirLC9IjXkTRgIvrozWUwobkPbKBQpTg&oe=63319C75](https://scontent.fidr1-1.fna.fbcdn.net/v/t39.30808-6/295280722_176113418219642_8769704300646783232_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=e3f864&_nc_ohc=lhwBfesHex4AX9XAqEC&_nc_oc=AQnaWTGZhfz5oebo3JaLnxXdfvkDgXVvdSsZu42rRKewW3xMBwL1mNCgtjp4mytZiKAhYxQVSYiJM7jh5-zMdcvb&_nc_ht=scontent.fidr1-1.fna&oh=00_AfBY0C1OQfM0KsZGYVgoiwC6fYyomSBDKNlVpV2obA-4Uw&oe=63611275">
-
+-->
 
 <h1 align="center">Hi 👋, Harsh Shrivastava here.</h1>
 <h3 align="center">Trying Not To Mess Things Up!!</h3>
@@ -13,9 +13,9 @@
 <a href="https://www.linkedin.com/in/harsh-shrivastava-95a524224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh shrivastava" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100074629535479" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harsh shrivastava" height="30" width="40" /></a>
 <a href="https://instagram.com/harshrivastava554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshrivastava554" height="30" width="40" /></a>
-  
+ -->
 <a href="https://www.codechef.com/users/hartz554" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hartz554" height="30" width="40" /></a>
--->
+
 </p>
 <br>
 <br>
