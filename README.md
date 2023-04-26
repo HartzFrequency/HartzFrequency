@@ -11,7 +11,7 @@
 
 - 🔭 I’m a **Student**
 - 📫 Mail me at **harshshrivastava554@gmail.com**
-- 🌱 I’m currently learning **Android & Game Development**
+- 🌱 I’m learning **Android & Game Development**
 - 👨‍💻 All of my projects are available **'here'** 
 - ⚡ Fun fact **I love Frequencies**
 
