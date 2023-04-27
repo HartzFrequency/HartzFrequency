@@ -13,7 +13,7 @@
 - 📫 Mail me at **harshshrivastava554@gmail.com**
 - 🌱 I’m learning **Android & Game Development**
 - 👨‍💻 All of my projects are available **'here'** 
-- ⚡ Fun fact **I love Frequencies**
+- ⚡ Fun fact **I love Analyzing Frequencies**
 
 
 <br>
