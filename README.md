@@ -10,7 +10,7 @@
 - 🌱 I’m learning **Android & Game Development**
 - 👨‍💻 All of my projects are available **'here'** 
 - ⚡ Fun fact **I love Analyzing Frequencies**
-<td valign="top"><img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HartzFrequency&layout=compact&theme=radical&custom_title=Languages"/></td>
+<td valign="top"><img height="110" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HartzFrequency&layout=compact&theme=radical&custom_title=Languages"/></td>
 </tr>
 
 ## 💻 Tech Stack:
