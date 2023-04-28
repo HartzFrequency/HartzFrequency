@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, Harsh Shrivastava here.</h1>
 <h3 align="center">Trying Not To Mess Things Up!!</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
@@ -11,9 +10,9 @@
 - 🌱 I’m learning **Android & Game Development**
 - 👨‍💻 All of my projects are available **'here'** 
 - ⚡ Fun fact **I love Analyzing Frequencies**
+<td valign="top"><img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HartzFrequency&layout=compact&theme=radical&custom_title=Languages"/></td>
+</tr>
 
-
-<br>
 <br>
 
 ## 💻 Tech Stack:
