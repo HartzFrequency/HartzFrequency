@@ -5,7 +5,7 @@
 
 </p>
 
-- 🔭 I’m a **Student**
+- 🔭 I’m a **Learner**
 - 📫 Mail me at **harshshrivastava554@gmail.com**
 - 🌱 I’m learning **Android & Game Development**
 - 👨‍💻 All of my projects are available **'@here'** 
