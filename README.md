@@ -9,7 +9,7 @@
 - 📫 Mail me at **harshshrivastava554@gmail.com**
 - 🌱 I’m learning **Android & Game Development**
 - 👨‍💻 All of my projects are available **'@here'** 
-- ⚡ Fun fact **I love Analyzing Frequencies**
+- ⚡ Fun fact **I Love Analyzing Frequencies**
 <td valign="top"><img height="110" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HartzFrequency&layout=compact&theme=radical&custom_title=Languages"/></td>
 </tr>
 
