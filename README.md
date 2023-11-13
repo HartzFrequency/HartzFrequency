@@ -29,6 +29,6 @@
 
 
 <!--
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repository 
 ![](https://github-contributor-stats.vercel.app/api?username=HartzFrequency&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 --> 
